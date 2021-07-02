@@ -74,11 +74,3 @@ REPORT RequestId: d5281438-3982-4fca-bf04-45d65707c468	Init Duration: 0.21 ms	Du
 ## Related Guides
 
 - AWS Lambda ([guide](https://quarkus.io/guides/amazon-lambda)): Write AWS Lambda functions
-
-## Provided Code
-
-### RESTEasy JAX-RS
-
-Easily start your RESTful Web Services
-
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
