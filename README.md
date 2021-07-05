@@ -1,5 +1,7 @@
 # AWS lambda written in scala using Quarkus
 
+[![quarkus-lambda-scala-master Actions Status](https://github.com/viswanath7/quarkus-lambda-scala/actions/workflows/maven.yml/badge.svg)](https://github.com/viswanath7/quarkus-lambda-scala/actions)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
